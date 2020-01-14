@@ -58,6 +58,6 @@ Material:
     - _RockMetallic: 1
     - _RockSmoothness: 0
     - _Smoothness: 0.5
-    - __dirty: 1
+    - __dirty: 0
     m_Colors:
     - _Color0: {r: 0.5660378, g: 0.120149545, b: 0.120149545, a: 0}
