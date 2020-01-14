@@ -171,7 +171,7 @@ Shader "MyShaders/Sand"
 }
 /*ASEBEGIN
 Version=17500
-1054.4;73.6;480;722;725.6571;188.7383;2.126778;False;False
+2946;27;892;938;1586.577;997.9964;2.731846;False;False
 Node;AmplifyShaderEditor.WorldNormalVector;5;-1469.673,-154.8308;Inherit;False;False;1;0;FLOAT3;0,0,1;False;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3
 Node;AmplifyShaderEditor.RangedFloatNode;7;-1594.308,55.47369;Inherit;False;Property;_SnowControl;SnowControl;4;0;Create;True;0;0;False;0;0;0.34;0;3;0;1;FLOAT;0
 Node;AmplifyShaderEditor.SimpleMultiplyOpNode;6;-1237.542,-58.47426;Inherit;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0
@@ -181,9 +181,9 @@ Node;AmplifyShaderEditor.SamplerNode;2;-1317.661,222.7343;Inherit;True;Property;
 Node;AmplifyShaderEditor.LerpOp;9;-808.1255,197.8185;Inherit;False;3;0;FLOAT3;0,0,0;False;1;FLOAT3;0,0,0;False;2;FLOAT;0;False;1;FLOAT3;0
 Node;AmplifyShaderEditor.WorldNormalVector;12;-537.8087,11.62694;Inherit;False;False;1;0;FLOAT3;0,0,1;False;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3
 Node;AmplifyShaderEditor.SimpleMultiplyOpNode;14;-254.3206,106.123;Inherit;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0
-Node;AmplifyShaderEditor.RangedFloatNode;17;-575.3074,579.4723;Inherit;False;Property;_SnowHeight;SnowHeight;6;0;Create;True;0;0;False;0;0;1.66;0;0;0;1;FLOAT;0
-Node;AmplifyShaderEditor.NormalVertexDataNode;18;-616.7855,415.9987;Inherit;False;0;5;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4
 Node;AmplifyShaderEditor.TFHCRemapNode;21;-174.5051,229.8448;Inherit;False;5;0;FLOAT;0;False;1;FLOAT;0;False;2;FLOAT;3;False;3;FLOAT;0;False;4;FLOAT;1;False;1;FLOAT;0
+Node;AmplifyShaderEditor.NormalVertexDataNode;18;-616.7855,415.9987;Inherit;False;0;5;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4
+Node;AmplifyShaderEditor.RangedFloatNode;17;-575.3074,579.4723;Inherit;False;Property;_SnowHeight;SnowHeight;6;0;Create;True;0;0;False;0;0;14.6;0;0;0;1;FLOAT;0
 Node;AmplifyShaderEditor.SimpleMultiplyOpNode;16;-277.6396,496.5159;Inherit;False;2;2;0;FLOAT3;0,0,0;False;1;FLOAT;0;False;1;FLOAT3;0
 Node;AmplifyShaderEditor.SaturateNode;15;-50.20938,106.123;Inherit;False;1;0;FLOAT;0;False;1;FLOAT;0
 Node;AmplifyShaderEditor.SaturateNode;22;14.66382,271.882;Inherit;False;1;0;FLOAT;0;False;1;FLOAT;0
@@ -218,4 +218,4 @@ WireConnection;0;3;3;0
 WireConnection;0;4;4;0
 WireConnection;0;11;20;0
 ASEEND*/
-//CHKSM=2825FCBAFFC595B1FE96DDD8C9D139F19CD5E7C4
+//CHKSM=DD1D0269737DEADFE7A3DFA270E03D45A11EE60A
