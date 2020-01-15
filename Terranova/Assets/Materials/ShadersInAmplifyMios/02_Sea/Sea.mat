@@ -100,7 +100,7 @@ Material:
     - _SrcBlend: 1
     - _Tesselation: 8
     - _UVSec: 0
-    - _WaveHeight: 0.42
+    - _WaveHeight: 1.44
     - _WaveSpeed: 0.3
     - _WaveTile: 0.52
     - _ZWrite: 1
